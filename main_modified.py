@@ -1,6 +1,6 @@
 # Constants for file paths
-VARIANCE_COEFS_DIR = "/data/apassi1/variance-coefs/64-pca"
-STD_COEFS_DIR = "/data/apassi1/std_coefs/64-pca"
+VARIANCE_COEFS_DIR = "/data/apassi1/variance-coefs/"
+STD_COEFS_DIR = "/data/apassi1/std_coefs/"
 
 from main import *
 
